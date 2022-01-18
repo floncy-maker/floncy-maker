@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @floncy-maker
 - 👀 I’m interested in ...graphic design, animation and payment gateway
 - 🌱 I’m currently learning ...graphic design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...UX, UI
 - 📫 How to reach me ...youtube, email
 
 <!---
